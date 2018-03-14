@@ -22,7 +22,7 @@ $(document).ready(()=> {
 			}
 
 			currentImage = 'url("images/' + backroundList[imageIndex] + '")';
-			console.log(currentImage)
+			// console.log(currentImage)
 
 			backgroundImage.css({
 				'background-image': currentImage,
