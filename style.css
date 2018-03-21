@@ -113,7 +113,7 @@ body{
 		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	}
 	.footer{
-		pdding: 20px 0;
+		padding: 20px 0;
 		grid-area: 3 / 1 / span 1/ span 2;
 		background-color: #008B89;
 	}
